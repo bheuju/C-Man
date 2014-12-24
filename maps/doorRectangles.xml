@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<maps>
+    <rects>
+        <rect callbackID="hd1" x="510" y="728" w="38" h="36" />
+        <rect callbackID="hd1" x="572" y="728" w="38" h="36" />
+        <rect callbackID="hd2" x="1156" y="458" w="36" h="36" />
+    </rects>
+</maps>

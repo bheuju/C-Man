@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<maps>
+	<npcs mapID = "npc">
+		<npc id = "1" x = "400" y = "300" w = "41" h = "36"/>
+		<npc id = "2" x = "800" y = "600" w = "41" h = "36"/>
+
+	</npcs>
+	<npcs mapID = "boy">
+		<npc id = "3" x = "903" y = "500" w = "41" h = "36"/>
+		<npc id = "4" x = "206" y = "900" w = "41" h = "36"/>
+	</npcs>
+</maps>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<characters font = "fonts/SourceSansPro-Bold.ttf" size = "18">
+	<npc id = "1">
+		<npc name = "Roy" file = "assets/characters/fnpc1.png">
+			<hero	dialog = "Clark: Where is MUKAI?"/>
+			<hero	dialog = "Roy: Who are you? Why are you searching him?"/>
+			<hero	dialog = "Clark: I am Clark. I was called to help break chaos in this village. Don't you know where he is?"/>
+			<hero	dialog = "Roy: I don't know where he is. But Yuri might know."/>
+		</npc>
+	</npc>
+	<npc id = "2">
+		<npc name = "Engy" file = "assets/characters/fnpc2.png">
+			<hero	dialog = "Clark: Where can I find Yuri?"/>
+			<npc	dialog = "Engy: His house is right there next to the lake."/>
+		</npc>
+	</npc>
+	<npc id = "3">
+		<npc name = "Tai" file = "assets/characters/fnpc3.png">
+			<hero	dialog = "Clark: I need to find Yuri."/>
+			<npc	dialog = "Tai: Go find yourself."/>
+		</npc>
+	</npc>
+	<npc id = "4">
+		<npc name = "Jake" file = "assets/characters/fnpc4.png">
+			<hero	dialog = "Clark: Have you seen Yuri?"/>
+			<npc	dialog = "Jake: Why?"/>
+			<hero	dialog = "Clark: I need to find MUKAI."/>
+			<npc	dialog = "Jake: MUKAI !!!!"/>
+			<hero	dialog = "Clark: I am here to bring him to the law."/>
+			<npc	dialog = "Jake: He is too dangerous. You can't defeat him."/>
+			<hero	dialog = "Clark: Don't worry. It's time now to show him the true power of people."/>
+		</npc>
+	</npc>	
+	<npc id = "5">
+		<npc name = "Yuri" file = "assets/characters/fnpc5.png">
+			<hero	dialog = "Clark: Yuri ?"/>
+			<npc	dialog = "Yuri: Yes. Who are you?"/>
+			<hero	dialog = "Clark:Its me Clark. I need to know where MUKAI is."/>
+			<npc	dialog = "Yuri: Well finally somebody has come to protect this village. Go to the GYM. You will find him there."/>
+		</npc>
+	</npc>	
+	<npc id = "6">
+		<npc name = "Mukai" file = "assets/characters/fnpc5.png">
+			<npc	dialog = "Mukai: So you are finally here."/>
+			<hero	dialog = "Clark: This has to come to an end."/>
+			<npc	dialog = "Mukai: HA HA HA HA. What would you like to eat?"/>
+			<hero	dialog = "Clark: Anything will do. Lets celebrate."/>
+		</npc>
+	</npc>
+</characters>

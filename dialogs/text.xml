@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<characters>
+	<npc font = "fonts/SourceSansPro-Bold.ttf" size = "18">
+		<npc name = "Roy" ID = "friend">
+			<dialog>
+				Welcome to our world! You are currently in danger. Take this weapon, you will need this. Cut through the forest to a small village. You will find help there.
+			</dialog>
+		</npc>
+		
+		<npc name = "Engy" ID = "enemy">
+			<dialog>
+				Get lost. I hate you. Leave from this place if you want your safety. Else you will be killed by me. You are annoying. Don't disturb me
+			</dialog>
+		</npc>
+	
+	</npc>
+</characters>
